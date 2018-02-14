@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.micky.it.quiz1.Activity4">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="95dp"
+        android:layout_height="143dp"
+        android:layout_x="134dp"
+        android:layout_y="166dp"
+        app:srcCompat="@android:drawable/ic_partial_secure"
+        tools:layout_editor_absoluteX="145dp"
+        tools:layout_editor_absoluteY="128dp" />
+</AbsoluteLayout>
